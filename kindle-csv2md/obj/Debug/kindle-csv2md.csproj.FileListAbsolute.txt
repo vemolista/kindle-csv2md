@@ -1,0 +1,7 @@
+C:\Repositories\kindle-csv2md\kindle-csv2md\kindle-csv2md\bin\Debug\kindle-csv2md.exe.config
+C:\Repositories\kindle-csv2md\kindle-csv2md\kindle-csv2md\bin\Debug\kindle-csv2md.exe
+C:\Repositories\kindle-csv2md\kindle-csv2md\kindle-csv2md\bin\Debug\kindle-csv2md.pdb
+C:\Repositories\kindle-csv2md\kindle-csv2md\kindle-csv2md\obj\Debug\kindle-csv2md.csprojAssemblyReference.cache
+C:\Repositories\kindle-csv2md\kindle-csv2md\kindle-csv2md\obj\Debug\kindle-csv2md.csproj.CoreCompileInputs.cache
+C:\Repositories\kindle-csv2md\kindle-csv2md\kindle-csv2md\obj\Debug\kindle-csv2md.exe
+C:\Repositories\kindle-csv2md\kindle-csv2md\kindle-csv2md\obj\Debug\kindle-csv2md.pdb
