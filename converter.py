@@ -2,9 +2,6 @@
 import pandas as pd
 import numpy as np
 
-
-# TODO invoke file explorer
-
 file = pd.read_csv('export.csv', encoding='utf-8')
 
 # remove metadata
@@ -27,8 +24,8 @@ for entry in data:
     export += "  - {}".format(entry["Content"])
     export += "\n"
 
-print(export)
-
 markdown_file = open("export.md", "w")
 markdown_file.write(export)
 markdown_file.close()
+
+print("done")
